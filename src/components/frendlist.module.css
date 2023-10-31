@@ -1,0 +1,31 @@
+.friendlistbox{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.item {
+    display: flex;
+    height: 70px;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 10px 20px;
+    border: 1px rgb(64, 70, 70) ;
+    box-shadow: 2px 5px 5px gray;
+}
+.onLine {
+    color: deepskyblue;
+}
+.offLine {
+    color: rgb(233, 12, 12);
+}
+.avatar {
+    width: 50px;
+    margin-left: 20px;
+}
+.name {
+    margin-left: 10px;
+    font-size: 26px;
+    font-style: oblique;
+}

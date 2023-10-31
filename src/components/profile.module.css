@@ -1,0 +1,67 @@
+.profiler {
+    max-width: 400 px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+.discription {
+    
+    
+    
+}
+.uname {
+    font-size: 20px;
+    font-style:initial;
+    margin-top: 0px;
+}
+.utag {
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 0px;
+}
+.ulocation {
+    font-style: oblique;
+    font-size: 35px;
+    margin-top:  0px;
+}
+.stats {
+    display: flex;
+    justify-content: center;
+    align-items:baseline ;
+    border-top: 1px #06bada groove;
+    
+}
+.avatar {
+    max-width: 350px;
+    border-radius: 50%;
+    background-color:rgb(233, 241, 243);
+}
+
+.liuser {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 50px;
+   padding: 5px;
+    margin-right: 50px;
+   
+}
+.liuser:last-child{
+     margin-right: 0px;
+}
+.label
+ {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: rgb(9, 197, 204);
+
+}
+
+.quantity {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+}
