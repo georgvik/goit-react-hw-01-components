@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/georgvik/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/georgvik/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/georgvik/goit-react-hw-01-components/static/css/main.91b142be.css",
+    "main.js": "/georgvik/goit-react-hw-01-components/static/js/main.582ac7cc.js",
     "index.html": "/georgvik/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/georgvik/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/georgvik/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.91b142be.css.map": "/georgvik/goit-react-hw-01-components/static/css/main.91b142be.css.map",
+    "main.582ac7cc.js.map": "/georgvik/goit-react-hw-01-components/static/js/main.582ac7cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.91b142be.css",
+    "static/js/main.582ac7cc.js"
   ]
 }
